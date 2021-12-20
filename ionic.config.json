@@ -1,0 +1,7 @@
+{
+  "name": "pererino-movil-v2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
